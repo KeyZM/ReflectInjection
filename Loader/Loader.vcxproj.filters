@@ -8,6 +8,9 @@
     <Filter Include="Pch">
       <UniqueIdentifier>{e1874aca-152e-443d-87b2-a072ba2ce406}</UniqueIdentifier>
     </Filter>
+    <Filter Include="injector">
+      <UniqueIdentifier>{478258fe-5864-441d-8b82-57a3cf9d9fc9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -17,6 +20,9 @@
   <ItemGroup>
     <ClInclude Include="pch.h">
       <Filter>Pch</Filter>
+    </ClInclude>
+    <ClInclude Include="injector.h">
+      <Filter>injector</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
