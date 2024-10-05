@@ -11,10 +11,16 @@
     <Filter Include="injector">
       <UniqueIdentifier>{478258fe-5864-441d-8b82-57a3cf9d9fc9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Interface">
+      <UniqueIdentifier>{ac913bfc-fc3f-4c70-a6d1-4f25f5ba368d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
       <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="injector.cpp">
+      <Filter>injector</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -23,6 +29,9 @@
     </ClInclude>
     <ClInclude Include="injector.h">
       <Filter>injector</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.hpp">
+      <Filter>Interface</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
