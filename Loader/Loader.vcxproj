@@ -131,6 +131,7 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Driver.h" />
     <ClInclude Include="injector.h" />
     <ClInclude Include="Interface.hpp" />
     <ClInclude Include="pch.h" />

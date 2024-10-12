@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\injector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|solutionrelative:Loader\\injector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\injector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|solutionrelative:Loader\\injector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\Driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|solutionrelative:Loader\\Driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|solutionrelative:Loader\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\Interface.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|solutionrelative:Loader\\Interface.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A905C0E8-D893-4A4E-8919-F3A6BA37F537}|Loader\\Loader.vcxproj|solutionrelative:Loader\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "injector.cpp",
+              "DocumentMoniker": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\injector.cpp",
+              "RelativeDocumentMoniker": "Loader\\injector.cpp",
+              "ToolTip": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\injector.cpp",
+              "RelativeToolTip": "Loader\\injector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T10:11:52.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pch.h",
+              "DocumentMoniker": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\pch.h",
+              "RelativeDocumentMoniker": "Loader\\pch.h",
+              "ToolTip": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\pch.h",
+              "RelativeToolTip": "Loader\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-06T09:30:55.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Driver.h",
+              "DocumentMoniker": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\Driver.h",
+              "RelativeDocumentMoniker": "Loader\\Driver.h",
+              "ToolTip": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\Driver.h",
+              "RelativeToolTip": "Loader\\Driver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-06T09:30:21.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "injector.h",
+              "DocumentMoniker": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\injector.h",
+              "RelativeDocumentMoniker": "Loader\\injector.h",
+              "ToolTip": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\injector.h",
+              "RelativeToolTip": "Loader\\injector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-06T09:29:41.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interface.hpp",
+              "DocumentMoniker": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\Interface.hpp",
+              "RelativeDocumentMoniker": "Loader\\Interface.hpp",
+              "ToolTip": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\Interface.hpp",
+              "RelativeToolTip": "Loader\\Interface.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-06T09:27:42.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\Main.cpp",
+              "RelativeDocumentMoniker": "Loader\\Main.cpp",
+              "ToolTip": "E:\\DESKTOP\\ilililililililililiili\\ReflectInjection\\ReflectInjection\\Loader\\Main.cpp",
+              "RelativeToolTip": "Loader\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T09:19:21.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
