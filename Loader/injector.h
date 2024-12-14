@@ -25,3 +25,5 @@ struct MANUAL_MAPPING_DATA
 	fn_LoadLibraryA pLoadLibraryA;
 	fn_GetProcAddress pGetProcAddress;
 };
+
+bool ManualMapDll(Interfaces* Memory, const wchar_t* DllPath);
